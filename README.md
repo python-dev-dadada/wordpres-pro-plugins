@@ -2,4 +2,4 @@
 
 please let me know when you use it.
 
-dadada1212112@gmail.com
+<a href="mailto:dadada1212112@gmail.com">dadada1212112@gmail.com</a>
